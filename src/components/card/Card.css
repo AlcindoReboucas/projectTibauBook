@@ -1,0 +1,21 @@
+.card{
+    background-color: rgb(221, 224, 7);
+    margin-bottom: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 14px rgb(60, 241, 5);
+    padding: 5px;
+    color: white
+    
+}
+
+.divButon{
+    display: flex;
+    justify-content: space-between;
+}
+.checkbox {
+  width: 25px;
+  height: 25px;
+  cursor: pointer;
+  display: flex;
+  margin-bottom: 15px;
+}
